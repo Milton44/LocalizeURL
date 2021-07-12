@@ -1,4 +1,4 @@
-# LocalizeURL
+# LocalizeURL v1.0.0
 
 Uma forma de organizar e separar os tipos de URLs de teste e de produção. Ainda conta com uma melhoramento da montagem da URL com acréscimo de parâmetros de forma automática.
 
